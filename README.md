@@ -1,4 +1,4 @@
-Verizon OpenOMCI
+## Verizon OpenOMCI
 
 The Optical Network Terminal (ONT) Management and Control Interface (OMCI) has been the preferred method of Passive Optical Network (PON) management since the earliest deployed PON systems. In 2010, the ITU-T replaced the B-PON and G-PON specific OMCI specifications (G.983.2 and G.984.4, respectively) with a unified ITU-T Recommendation G.988, which is applicable to the existing PON systems and is designed to be extensible in principle to the new PON systems.
 
